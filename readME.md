@@ -82,7 +82,7 @@
 ---
 
 ## GitHub Repository Link
-[https://github.com/MayankK-20/Operating_System]
+[https://github.com/saanvi23454/Simple-Scheduler-and-Shell]
 
 ---
 
